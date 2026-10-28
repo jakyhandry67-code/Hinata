@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-Flask
-openai
-gTTS
