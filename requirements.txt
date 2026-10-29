@@ -1,4 +1,0 @@
-google-genai>=2.25.0
-python-telegram-bot>=22.0
-python-dotenv>=1.0.0
-elevenlabs
